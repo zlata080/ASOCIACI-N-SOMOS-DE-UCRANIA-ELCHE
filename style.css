@@ -2,6 +2,9 @@ body {
     font-family: sans-serif;
     background-image: url(https://learn.logikaschool.com/uploads/student/2330222/65f330bfadf4b.jpg);
     background-size: cover;
+    width: 50%;
+    position: relative;
+    left: 25%;
 }
 
 header{
